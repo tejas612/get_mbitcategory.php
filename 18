@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 342,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Photo.jpg",
+      "Filter_Name": "Photo",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Photo.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Photo.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2405129,
+      "ZipSize": 2754185,
+      "date": ""
+    },
+    {
+      "id": 341,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Girlfriend.jpg",
+      "Filter_Name": "Girlfriend",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Girlfriend.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Girlfriend.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 3371133,
+      "ZipSize": 4741115,
+      "date": ""
+    },
+    {
+      "id": 340,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Gal_Karke.jpg",
+      "Filter_Name": "Gal Karke",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Gal_Karke.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Gal_Karke.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2796237,
+      "ZipSize": 3601833,
+      "date": ""
+    },
+    {
+      "id": 339,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Downtown.jpg",
+      "Filter_Name": "Downtown",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Downtown.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Downtown.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 3410372,
+      "ZipSize": 3719085,
+      "date": ""
+    },
+    {
+      "id": 338,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Bach_Ke_Reh.jpg",
+      "Filter_Name": "Bach Ke Reh",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Bach_Ke_Reh.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Bach_Ke_Reh.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2396808,
+      "ZipSize": 2020450,
+      "date": ""
+    }
+  ]
+}
