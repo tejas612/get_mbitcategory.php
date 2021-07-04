@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 435,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Baisa.jpg",
+      "Filter_Name": "Baisa ",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Baisa.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Baisa.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2597066,
+      "ZipSize": 3378685,
+      "date": ""
+    },
+    {
+      "id": 434,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Baisa_Ro_Roop.jpg",
+      "Filter_Name": "Baisa_Ro_Roop",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Baisa_Ro_Roop.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Baisa_Ro_Roop.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2534234,
+      "ZipSize": 3942642,
+      "date": ""
+    },
+    {
+      "id": 433,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Achko_Machko.jpg",
+      "Filter_Name": "Achko_Machko",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Achko_Machko.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Achko_Machko.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2434322,
+      "ZipSize": 2163074,
+      "date": ""
+    }
+  ]
+}
