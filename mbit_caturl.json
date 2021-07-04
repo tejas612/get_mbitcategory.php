@@ -1,0 +1,166 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Trending",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Trending.png",
+      "date": "09-03-2020 03:15:29 pm"
+    },
+    {
+      "id": 2,
+      "name": "Mahadev",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Mahadev.png",
+      "date": ""
+    },
+    {
+      "id": 3,
+      "name": "Partically",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_partically.png",
+      "date": ""
+    },
+    {
+      "id": 4,
+      "name": "TikTik",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_tiktok.png",
+      "date": ""
+    },
+    {
+      "id": 5,
+      "name": "Birthday",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Birthday.png",
+      "date": ""
+    },
+    {
+      "id": 6,
+      "name": "Love",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Love.png",
+      "date": ""
+    },
+    {
+      "id": 7,
+      "name": "English",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_English.png",
+      "date": ""
+    },
+    {
+      "id": 8,
+      "name": "Sad",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Sad.png",
+      "date": ""
+    },
+    {
+      "id": 9,
+      "name": "Attitude",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Attitude.png",
+      "date": ""
+    },
+    {
+      "id": 10,
+      "name": "Festival",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Festival.png",
+      "date": ""
+    },
+    {
+      "id": 11,
+      "name": "Funny",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Funny.png",
+      "date": ""
+    },
+    {
+      "id": 12,
+      "name": "God",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_God.png",
+      "date": ""
+    },
+    {
+      "id": 13,
+      "name": "Greetings",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Greetings.png",
+      "date": ""
+    },
+    {
+      "id": 14,
+      "name": "Kannada",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Kannada.png",
+      "date": ""
+    },
+    {
+      "id": 15,
+      "name": "Cool",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Cool.png",
+      "date": ""
+    },
+    {
+      "id": 16,
+      "name": "Lyrical",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Lyrical.png",
+      "date": ""
+    },
+    {
+      "id": 17,
+      "name": "Magical",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Magical.png",
+      "date": ""
+    },
+    {
+      "id": 18,
+      "name": "Punjabi",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Punjabi.png",
+      "date": ""
+    },
+    {
+      "id": 19,
+      "name": "Remix",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Remix.png",
+      "date": ""
+    },
+    {
+      "id": 20,
+      "name": "Rock",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Rock.png",
+      "date": ""
+    },
+    {
+      "id": 21,
+      "name": "Dialogue",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Dialogue.png",
+      "date": ""
+    },
+    {
+      "id": 22,
+      "name": "Tamil",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Tamil.png",
+      "date": ""
+    },
+    {
+      "id": 23,
+      "name": "Unplugged",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Unplugged.png",
+      "date": ""
+    },
+    {
+      "id": 24,
+      "name": "Bengali",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Bengali.png",
+      "date": ""
+    },
+    {
+      "id": 25,
+      "name": "Bhojpuri",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Bhojpuri.png",
+      "date": ""
+    },
+    {
+      "id": 26,
+      "name": "Marathi",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Marathi.png",
+      "date": ""
+    },
+    {
+      "id": 27,
+      "name": "Rajasthani",
+      "imageUrl": "https://appsword.in/Magical/CatThumb/ic_Rajasthani.png",
+      "date": ""
+    }
+  ]
+}
