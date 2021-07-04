@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 354,
+      "Show_Image": "https://appsword.in/Magical/thumbs/lehanga.jpg",
+      "Filter_Name": "lehanga",
+      "Filter_Zip": "https://appsword.in/Magical/zip/lehanga.zip",
+      "VideoLink": "https://appsword.in/Magical/video/lehanga.mp4",
+      "PhotoNumber": 1,
+      "VideoSize": 984881,
+      "ZipSize": 926503,
+      "date": ""
+    },
+    {
+      "id": 353,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Slowly_Slowly.jpg",
+      "Filter_Name": "Slowly Slowly",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Slowly_Slowly.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Slowly_Slowly.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 3214507,
+      "ZipSize": 3737718,
+      "date": ""
+    },
+    {
+      "id": 352,
+      "Show_Image": "https://appsword.in/Magical/thumbs/O_Saki_Saki.jpg",
+      "Filter_Name": "O Saki Saki",
+      "Filter_Zip": "https://appsword.in/Magical/zip/O_Saki_Saki.zip",
+      "VideoLink": "https://appsword.in/Magical/video/O_Saki_Saki.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2252891,
+      "ZipSize": 1815359,
+      "date": ""
+    },
+    {
+      "id": 351,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Buzz.jpg",
+      "Filter_Name": "Buzz",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Buzz.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Buzz.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 3940467,
+      "ZipSize": 3935436,
+      "date": ""
+    },
+    {
+      "id": 350,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Blue_Eyes.jpg",
+      "Filter_Name": "Blue Eyes",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Blue_Eyes.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Blue_Eyes.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2717301,
+      "ZipSize": 2676136,
+      "date": ""
+    }
+  ]
+}
