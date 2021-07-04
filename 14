@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 262,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Basanni.jpg",
+      "Filter_Name": "Basanni",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Basanni.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Basanni.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2396474,
+      "ZipSize": 3012615,
+      "date": ""
+    },
+    {
+      "id": 261,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Duniyadalle_Don.jpg",
+      "Filter_Name": "Duniyadalle_Don",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Duniyadalle_Don.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Duniyadalle_Don.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2914145,
+      "ZipSize": 4234429,
+      "date": ""
+    },
+    {
+      "id": 260,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Dont_Worry.jpg",
+      "Filter_Name": "Dont_Worry",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Dont_Worry.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Dont_Worry.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2179621,
+      "ZipSize": 2789305,
+      "date": ""
+    },
+    {
+      "id": 259,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Chaddi_Dosth.jpg",
+      "Filter_Name": "Chaddi_Dosth",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Chaddi_Dosth.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Chaddi_Dosth.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2305165,
+      "ZipSize": 3128715,
+      "date": ""
+    },
+    {
+      "id": 258,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Dheera_Dheera.jpg",
+      "Filter_Name": "Dheera Dheera",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Dheera_Dheera.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Dheera_Dheera.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2723152,
+      "ZipSize": 3921165,
+      "date": ""
+    }
+  ]
+}
