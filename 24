@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 415,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Keno_Je_Toke.jpg",
+      "Filter_Name": "Keno_Je_Toke",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Konna_Re.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Keno_Je_Toke.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2667064,
+      "ZipSize": 3692726,
+      "date": ""
+    },
+    {
+      "id": 414,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Keno_Je_Toke.jpg",
+      "Filter_Name": "Keno_Je_Toke",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Keno_Je_Toke.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Keno_Je_Toke.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2667064,
+      "ZipSize": 3539145,
+      "date": ""
+    },
+    {
+      "id": 413,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Ek_Sundori_Maiya.jpg",
+      "Filter_Name": "Ek_Sundori_Maiya",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Ek_Sundori_Maiya.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Ek_Sundori_Maiya.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2710564,
+      "ZipSize": 3247922,
+      "date": ""
+    },
+    {
+      "id": 412,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Oporadhi.jpg",
+      "Filter_Name": "Oporadhi",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Oporadhi.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Oporadhi.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2709602,
+      "ZipSize": 4225601,
+      "date": ""
+    },
+    {
+      "id": 411,
+      "Show_Image": "https://appsword.in/Magical/thumbs/TorKotha.jpg",
+      "Filter_Name": "TorKotha",
+      "Filter_Zip": "https://appsword.in/Magical/zip/TorKotha.zip",
+      "VideoLink": "https://appsword.in/Magical/video/TorKotha.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2247262,
+      "ZipSize": 3987480,
+      "date": ""
+    }
+  ]
+}
