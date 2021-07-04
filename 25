@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 423,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Jhumka_Jhulaniya.jpg",
+      "Filter_Name": "Jhumka_Jhulaniya",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Jhumka_Jhulaniya.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Jhumka_Jhulaniya.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 1871584,
+      "ZipSize": 1902073,
+      "date": ""
+    },
+    {
+      "id": 422,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Bin_Biyahe_Raja.jpg",
+      "Filter_Name": "Bin_Biyahe_Raja",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Bin_Biyahe_Raja.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Bin_Biyahe_Raja.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2262589,
+      "ZipSize": 3840462,
+      "date": ""
+    },
+    {
+      "id": 421,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Bhatar_Ko_Bhi_Bhul_Jaogi.jpg",
+      "Filter_Name": "Bhatar_Ko_Bhi_Bhul_Jaogi",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Bhatar_Ko_Bhi_Bhul_Jaogi.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Bhatar_Ko_Bhi_Bhul_Jaogi.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2395701,
+      "ZipSize": 2124873,
+      "date": ""
+    }
+  ]
+}
