@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 429,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Gutun_Jiv.jpg",
+      "Filter_Name": "Gutun_Jiv",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Gutun_Jiv.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Gutun_Jiv.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2211779,
+      "ZipSize": 3503128,
+      "date": ""
+    },
+    {
+      "id": 428,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Disu_Lagalis_Tu.jpg",
+      "Filter_Name": "Disu_Lagalis_Tu",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Disu_Lagalis_Tu.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Disu_Lagalis_Tu.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2161942,
+      "ZipSize": 1634961,
+      "date": ""
+    },
+    {
+      "id": 427,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Ararara.jpg",
+      "Filter_Name": "Ararara",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Ararara.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Ararara.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2312302,
+      "ZipSize": 3294750,
+      "date": ""
+    }
+  ]
+}
