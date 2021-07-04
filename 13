@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 257,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Valentine_Day_Thoda_Aur.jpg",
+      "Filter_Name": "Valentine Day Thoda Aur",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Valentine_Day_Thoda_Aur.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Valentine_Day_Thoda_Aur.mp4",
+      "PhotoNumber": 3,
+      "VideoSize": 2474374,
+      "ZipSize": 5980763,
+      "date": ""
+    },
+    {
+      "id": 256,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Good_Night.jpg",
+      "Filter_Name": "Good Night",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Good_Night.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Good_Night.mp4",
+      "PhotoNumber": 1,
+      "VideoSize": 1889609,
+      "ZipSize": 4282595,
+      "date": ""
+    },
+    {
+      "id": 255,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Friendship_Mashup.jpg",
+      "Filter_Name": "Friendship Mashup",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Friendship_Mashup.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Friendship_Mashup.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 1157181,
+      "ZipSize": 4464750,
+      "date": ""
+    },
+    {
+      "id": 254,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Friendship_Day.jpg",
+      "Filter_Name": "Friendship Day",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Friendship_Day.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Friendship_Day.mp4",
+      "PhotoNumber": 4,
+      "VideoSize": 2701299,
+      "ZipSize": 6114361,
+      "date": ""
+    },
+    {
+      "id": 253,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Birthday_Love_Funny.jpg",
+      "Filter_Name": "Birthday Love Funny",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Birthday_Love_Funny.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Birthday_Love_Funny.mp4",
+      "PhotoNumber": 2,
+      "VideoSize": 1699130,
+      "ZipSize": 2766806,
+      "date": ""
+    },
+    {
+      "id": 252,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Good_Morning.jpg",
+      "Filter_Name": "Good Morning",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Good_Morning.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Good_Morning.mp4",
+      "PhotoNumber": 1,
+      "VideoSize": 1600480,
+      "ZipSize": 5271068,
+      "date": ""
+    },
+    {
+      "id": 251,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Birthday.jpg",
+      "Filter_Name": "Birthday",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Birthday.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Birthday.mp4",
+      "PhotoNumber": 3,
+      "VideoSize": 1599394,
+      "ZipSize": 4008584,
+      "date": ""
+    }
+  ]
+}
