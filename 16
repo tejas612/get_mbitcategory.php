@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 296,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Tasvir_Teri_Nainan_Main.jpg",
+      "Filter_Name": "Tasvir Teri Nainan Main",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Tasvir_Teri_Nainan_Main.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Tasvir_Teri_Nainan_Main.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 2902789,
+      "ZipSize": 2453274,
+      "date": ""
+    },
+    {
+      "id": 295,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Slow_Motion_Main.jpg",
+      "Filter_Name": "Slow Motion Main",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Slow_Motion_Main.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Slow_Motion_Main.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 3471848,
+      "ZipSize": 6084937,
+      "date": ""
+    },
+    {
+      "id": 294,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Sachha_Pyaar.jpg",
+      "Filter_Name": "Sachha Pyaar",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Sachha_Pyaar.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Sachha_Pyaar.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 1307761,
+      "ZipSize": 908021,
+      "date": ""
+    },
+    {
+      "id": 293,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Mera_Bhola_Hai_Bhandari.jpg",
+      "Filter_Name": "Mera Bhola Hai Bhandari",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Mera_Bhola_Hai_Bhandari.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Mera_Bhola_Hai_Bhandari.mp4",
+      "PhotoNumber": 5,
+      "VideoSize": 3076683,
+      "ZipSize": 1445739,
+      "date": ""
+    },
+    {
+      "id": 292,
+      "Show_Image": "https://appsword.in/Magical/thumbs/Ek_Hi_Funda.jpg",
+      "Filter_Name": "Ek Hi Funda",
+      "Filter_Zip": "https://appsword.in/Magical/zip/Ek_Hi_Funda.zip",
+      "VideoLink": "https://appsword.in/Magical/video/Ek_Hi_Funda.mp4",
+      "PhotoNumber": 4,
+      "VideoSize": 816585,
+      "ZipSize": 2868159,
+      "date": ""
+    }
+  ]
+}
